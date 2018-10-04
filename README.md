@@ -25,7 +25,7 @@ bootoast.toast({
     type: 'info',
     position: 'bottom-center',
     icon: null,
-    timeout: null,
+    timeout: 3,
     animationDuration: 300,
     dismissible: true
 });
